@@ -4,4 +4,4 @@ Zhaokun's master thesis
 Tasks:
 
 - [X]: 10 papers including summary (2 read vs 8 browse through) in the next week
-- [ ]: 10 papers for unitary decomposition in week (14.09-20.09.23)
+- [X]: 10 papers for unitary decomposition in week (14.09-20.09.23)
